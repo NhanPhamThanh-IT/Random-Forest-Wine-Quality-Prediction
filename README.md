@@ -468,9 +468,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact
 
 ### Project Maintainer
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Name**: [Pham Thanh Nhan]
+- **Email**: [ptnhanit230104@gmail.com]
+- **GitHub**: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
 
 ### Support
 - **Issues**: [GitHub Issues](https://github.com/yourusername/Random-Forest-Wine-Quality-Prediction/issues)
